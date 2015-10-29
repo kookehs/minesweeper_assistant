@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="18">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"Game Data"</Description>
+      <LastState Value="" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description>"State"</Description>
+          <LastState Value="2" Activated="0" RealAddress="01005160"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>winmine.exe+5160</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>35</ID>
+          <Description>"Time"</Description>
+          <LastState Value="0" Activated="0" RealAddress="0100579D"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>winmine.exe+579D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2</ID>
+          <Description>"Time"</Description>
+          <LastState Value="0" Activated="0" RealAddress="0100579C"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>winmine.exe+579C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"Tiles Discovered"</Description>
+          <LastState Value="0" Activated="0" RealAddress="010057A4"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>winmine.exe+57A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"Flags Available"</Description>
+          <LastState Value="99" Activated="0" RealAddress="01005194"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>winmine.exe+5194</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3</ID>
+          <Description>"Column Selected"</Description>
+          <LastState Value="17" Activated="0" RealAddress="01005118"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>winmine.exe+5118</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"Row Selected"</Description>
+          <LastState Value="255" Activated="0" RealAddress="0100511C"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>winmine.exe+511C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"Map Dimensions"</Description>
+      <Options moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>23</ID>
+          <Description>"Height"</Description>
+          <LastState Value="24" Activated="0" RealAddress="01005338"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>winmine.exe+5338</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"Width"</Description>
+          <LastState Value="30" Activated="0" RealAddress="01005334"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>winmine.exe+5334</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"Map Data"</Description>
+      <Options moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"Row 1"</Description>
+          <LastState Value="15 15 15 15 15 15 15 15 15 15 143 15 15 15 15 15 15 15 15 15 143 15 15 15 15 15 143 15 15 15" Activated="0" RealAddress="01005361"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5361</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"Row 2"</Description>
+          <LastState Value="15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 143 15 15 15 15 15 15 15 143" Activated="0" RealAddress="01005381"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5381</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"Row 3"</Description>
+          <LastState Value="15 143 15 143 15 15 15 15 15 15 15 15 15 15 15 15 143 15 15 15 15 15 15 15 15 15 15 15 15 15" Activated="0" RealAddress="010053A1"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+53A1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description>"Row 4"</Description>
+          <LastState Value="15 15 15 15 15 15 15 15 15 15 15 15 143 15 15 15 143 143 15 15 15 143 143 15 143 15 15 15 15 15" Activated="0" RealAddress="010053C1"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+53C1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"Row 5"</Description>
+          <LastState Value="143 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 143 15 15 15 15 15 15" Activated="0" RealAddress="010053E1"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+53E1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11</ID>
+          <Description>"Row 6"</Description>
+          <LastState Value="143 143 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 143 15 15 143 15 15 15 15 15 15 143" Activated="0" RealAddress="01005401"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5401</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Row 7"</Description>
+          <LastState Value="15 15 15 143 15 143 143 15 15 15 15 15 15 15 15 15 15 15 15 143 15 15 143 15 15 15 15 15 15 15" Activated="0" RealAddress="01005421"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5421</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description>"Row 8"</Description>
+          <LastState Value="15 15 15 15 15 15 15 15 15 15 143 15 15 15 15 15 15 15 15 15 143 15 143 143 15 15 15 15 15 143" Activated="0" RealAddress="01005441"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5441</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>14</ID>
+          <Description>"Row 9"</Description>
+          <LastState Value="15 15 15 15 15 143 15 15 143 15 15 15 15 15 143 15 143 15 15 15 15 15 15 15 15 15 143 15 15 15" Activated="0" RealAddress="01005461"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5461</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>15</ID>
+          <Description>"Row 10"</Description>
+          <LastState Value="15 15 15 143 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 143 15 15 15 15 15 15 15 15" Activated="0" RealAddress="01005481"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5481</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>16</ID>
+          <Description>"Row 11"</Description>
+          <LastState Value="15 15 15 15 15 15 15 143 15 15 15 15 15 15 15 15 15 143 143 15 15 15 15 15 15 15 15 15 15 15" Activated="0" RealAddress="010054A1"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+54A1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"Row 12"</Description>
+          <LastState Value="15 15 15 15 143 15 15 15 143 15 15 15 15 15 15 143 15 143 15 15 15 15 15 15 15 15 15 15 143 143" Activated="0" RealAddress="010054C1"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+54C1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>18</ID>
+          <Description>"Row 13"</Description>
+          <LastState Value="15 15 15 15 15 15 15 15 15 15 15 143 15 15 15 143 15 15 15 15 15 15 15 15 15 15 15 143 143 15" Activated="0" RealAddress="010054E1"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+54E1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"Row 14"</Description>
+          <LastState Value="15 15 15 15 15 143 15 15 15 15 15 15 143 15 15 15 15 15 15 15 15 15 15 143 15 15 15 15 15 15" Activated="0" RealAddress="01005501"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5501</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"Row 15"</Description>
+          <LastState Value="143 143 15 15 15 15 15 15 143 15 15 15 15 143 15 15 15 15 143 15 15 15 15 15 15 143 15 15 15 15" Activated="0" RealAddress="01005521"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5521</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description>"Row 16"</Description>
+          <LastState Value="15 15 15 15 143 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 143 143 15 15 15 15 15" Activated="0" RealAddress="01005541"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5541</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"Row 17"</Description>
+          <LastState Value="143 15 15 15 143 15 15 15 15 15 15 15 143 143 15 15 15 15 15 15 15 143 143 15 15 15 15 15 15 15" Activated="0" RealAddress="01005561"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5561</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>28</ID>
+          <Description>"Row 18"</Description>
+          <LastState Value="15 15 15 15 15 15 143 15 15 15 15 15 15 143 15 15 15 143 15 143 15 15 15 15 15 15 15 15 15 15" Activated="0" RealAddress="01005581"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5581</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>29</ID>
+          <Description>"Row 19"</Description>
+          <LastState Value="15 15 15 15 15 15 15 143 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 143 15 15" Activated="0" RealAddress="010055A1"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+55A1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>30</ID>
+          <Description>"Row 20"</Description>
+          <LastState Value="15 15 15 143 143 15 15 15 15 15 143 15 15 143 143 15 15 15 143 143 15 15 15 15 15 15 143 15 143 15" Activated="0" RealAddress="010055C1"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+55C1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>31</ID>
+          <Description>"Row 21"</Description>
+          <LastState Value="15 15 15 143 15 15 15 15 143 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15" Activated="0" RealAddress="010055E1"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+55E1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"Row 22"</Description>
+          <LastState Value="15 15 15 15 15 15 143 15 15 15 15 15 15 15 15 15 15 15 15 15 15 143 15 143 15 143 15 15 15 15" Activated="0" RealAddress="01005601"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5601</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>33</ID>
+          <Description>"Row 23"</Description>
+          <LastState Value="15 15 15 15 15 143 143 15 15 15 143 15 15 15 15 15 15 143 15 15 15 15 15 15 15 15 15 15 15 15" Activated="0" RealAddress="01005621"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5621</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>34</ID>
+          <Description>"Row 24"</Description>
+          <LastState Value="15 143 15 15 15 15 143 15 15 15 143 143 15 15 15 15 15 15 15 15 15 143 15 15 15 15 15 15 15 15" Activated="0" RealAddress="01005641"/>
+          <Color>80000008</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>30</ByteLength>
+          <Address>winmine.exe+5641</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <LuaScript>baseAddress = 0x01005361
+file = io.open("C:/Users/Bill/Documents/Bitbucket/minesweeperai/map.dat", "w")
+
+function exit()
+    io.close(file)
+end
+
+function test()
+    autoAssemble(
+        "alloc(tempFunction, 1024)\n" ..
+        "CreateThread(tempFunction)\n" ..
+        "tempFunction:\n" ..
+        "mov [01005361],0F 0F 0F 0F\n" ..
+        "ret\n"
+    )
+end
+
+function saveMap()
+    sleep(100)
+    mapHeight = readBytes(0x01005338, 1, false)
+    mapWidth = readBytes(0x01005334, 1, false)
+    io.flush(file)
+    io.output(file)
+    io.write(mapHeight .. "\n")
+    io.write(mapWidth .. "\n")
+
+    for i = 0, mapHeight - 1, 1 do
+        address = baseAddress + i * 30
+
+        for j = 0, mapWidth - 1, 1 do
+            data = readBytes(address + j, 1, false)
+            tile = data
+
+            if data == 0 then
+                tile = "C" -- Clicked tile
+            elseif data == 11 then
+                tile = "N" -- Flag no bomb but explosion
+            elseif data == 13 then
+                tile = "N" -- Question mark no bomb
+            elseif data == 14 then
+                tile = "N" -- Flag no bomb
+            elseif data == 15 then
+                tile = "W" -- Unclicked tile
+            elseif data == 64 then
+                tile = "E" -- Empty
+            elseif data == 65 then
+                tile = "1"
+            elseif data == 66 then
+                tile = "2"
+            elseif data == 67 then
+                tile = "3"
+            elseif data == 68 then
+                tile = "4"
+            elseif data == 69 then
+                tile = "5"
+            elseif data == 70 then
+                tile = "6"
+            elseif data == 71 then
+                tile = "7"
+            elseif data == 72 then
+                tile = "8"
+            elseif data == 128 then
+                tile = "!"
+            elseif data == 138 then
+                tile = "B" -- Other bomb
+            elseif data == 141 then
+                tile = "?" -- Question mark
+            elseif data == 142 then
+                tile = "F" -- Flag
+            elseif data == 143 then
+                tile = "@" -- Hidden bomb
+            elseif data == 204 then
+                tile = "!" -- Clicked bomb
+            end
+
+            io.write(tile)
+            if j ~= 0 or j ~= mapWidth - 1 then
+                io.write(" ")
+            end
+        end
+        io.write("\n")
+    end
+    -- io.close(file)
+end
+
+createHotkey(saveMap, VK_LBUTTON)
+createHotkey(saveMap, VK_RBUTTON)
+</LuaScript>
+</CheatTable>
